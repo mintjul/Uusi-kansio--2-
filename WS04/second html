@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>WEB page</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to the Home Page</h1>
+      </header>
+
+      <p>
+        <img src="c:\Users\Omistaja\Downloads\lataa (1).jpeg">
+      </p>
+      <figure>
+        <figcaption>Sun and Water</figcaption>
+        <img src="c:\Users\Omistaja\Downloads\lataa.jpeg">
+    </figure>
+    <label for="bar">Waterwater</label>
+    <progress id="bar" value="88" max="100"> 88% </progress>
+    <a href="second.html" class="top-left-link">Second Page</a>
+    
+</body>
+</head>
+</html>
