@@ -14,7 +14,7 @@ p{
   font-family: Garamond, serif;
 }
 carousel-inner{
-  transition: 3s;
+  transition: 1s;
 }
 /*Spring*/
 div.gallery1 {
@@ -137,7 +137,7 @@ div.desc {
 /*forms*/
 .form-container {
   background-color: white;
-  padding: 20px;
+  padding: 50px;
   border-radius: 8px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   width: 100%;
@@ -145,6 +145,7 @@ div.desc {
   text-align: center;
   align-items: center;
   justify-content: center;
+  margin: auto;
 }
 .form-container h2 {
   margin-bottom: 20px;
